@@ -1,16 +1,48 @@
-## Hi there 👋
+## はじめまして
+情報系学科に所属している、27卒予定の学生です。  
+Webアプリケーション開発を中心に学習し、個人開発や授業を通して基礎から応用まで幅広く取り組んでいます。  
+ユーザーにとって使いやすいサービスを作ることを目標に、日々技術力の向上に努めています。  
 
-<!--
-**hiro-63/hiro-63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+まだ学習中の身ではありますが、新しい技術を積極的に取り入れながら成長していく姿勢を大切にしています。  
+今後ともよろしくお願いいたします。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 主な使用技術
+
+### 言語
+- Java  
+- JavaScript  
+- PHP  
+
+### フレームワーク / ライブラリ
+- Node.js  
+- React  
+
+### データベース
+- MySQL
+- MariaDB
+
+### OS / その他
+- Linux  
+- Git / GitHub  
+- 基本的なWebアプリ開発（API、DB設計、認証など）
+
+---
+
+## 📚 現在取り組んでいること
+- Webアプリ開発の実践的な設計・実装  
+- JavaScript / React を用いたフロントエンド開発  
+- チーム開発を想定した Git 運用  
+
+---
+
+## 🎯 今後の目標
+- 実務レベルの開発スキル習得  
+- セキュアで拡張性のあるアプリケーション設計  
+- 新しい技術への積極的な挑戦  
+
+---
+
+## 📫 連絡先
+ご興味を持っていただけましたら、お気軽にご連絡ください。
